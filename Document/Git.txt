@@ -1,1 +1,13 @@
+// 改行コード
 git config --global core.autoCRLF false
+
+
+
+
+// Unity
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
